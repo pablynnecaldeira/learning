@@ -1,0 +1,69 @@
+body {
+    background-image: url(https://indieground.net/wp-content/uploads/2023/03/Freebie-GradientTextures-Preview-03.jpg);
+}
+
+nav{
+    text-align: end;
+    margin-right: 7px;
+}
+
+#logo{
+    align-items: start;
+    width: 70px;
+    margin-top: 7px;
+    margin-right: 70%;
+}
+
+nav a{
+    color: azure;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 5px;
+}
+
+nav a:hover{
+    color: gainsboro;
+}
+
+
+h3 {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 2px;
+    text-transform: uppercase;
+}
+
+form {
+    margin-left: 40%;
+    margin-right: 40%;
+    align-items: center;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: white;
+    -webkit-box-shadow: 24px 6px 33px -6px rgba(10, 10, 10, 1);
+    -moz-box-shadow: 24px 6px 33px -6px rgba(10, 10, 10, 1);
+    box-shadow: 24px 6px 33px -6px rgba(10, 10, 10, 1);
+}
+
+#mail, #pass{
+    max-width: 100%;
+    min-width: 30%;
+}
+
+#data {
+    margin: 3px;
+}
+
+div.mail,
+.pass {
+    padding-bottom: 5px;
+}
+
+#button {
+    margin-left: 72%;
+    max-width: 40%;
+    min-width: 20%;
+}
