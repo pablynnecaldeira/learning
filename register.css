@@ -1,6 +1,7 @@
 body {
     background-image: url(https://indieground.net/wp-content/uploads/2023/03/Freebie-GradientTextures-Preview-03.jpg);
     width: 100%;
+    height: 100%;
 }
 
 nav{
@@ -90,7 +91,7 @@ form{
     color: white;
   }
   
-  .bn30 .text {
+  .bn30 a {
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
