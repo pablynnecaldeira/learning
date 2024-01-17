@@ -92,6 +92,7 @@ form{
   }
   
   .bn30 a {
+    color: white
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
